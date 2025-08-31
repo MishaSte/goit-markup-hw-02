@@ -116,6 +116,7 @@ font-weight: 400;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2E2F42;
+        text-transform: capitalize;
 }
 
 .team-item {
@@ -128,7 +129,6 @@ font-weight: 400;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2E2F42;
-        text-transform: capitalize;
 }
 
 .team-item-text{
@@ -148,6 +148,7 @@ font-weight: 400;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2E2F42;
+        text-transform: capitalize;
 }
 
 .portfolio-item-title{
@@ -156,7 +157,6 @@ font-weight: 400;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2E2F42;
-        text-transform: capitalize;
 }
 
 .portfolio-item-text{
@@ -180,7 +180,7 @@ font-weight: 400;
         color: #4D5AE5;
 }
 .footer-logo-color {
-    color: #f4f4f4;
+    color: #F4F4FD;;
 }
 .footer-text{
     font-weight: 400;
